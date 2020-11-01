@@ -1,2 +1,8 @@
-City,State,Population,lat,lon
-Sukoharjo,ISP,0,-7.6824572,110.8325722
+City,State,lat,lon
+Sukoharjo,ISP,-7.6824572,110.8325722
+Karanganyar,Manufacturer,-7.753882,110.993164
+Karanganyar,Wholesaler1,-7.759683,110.990126
+Karanganyar,Wholesaler2,-7,7487007, 110,9968545
+Karanganyar,Retailer&Customer1,-7.761344,110.989418
+Karanganyar,Retailer&Customer2,-7.753882,110.993164
+Karanganyar,Retailer&Customer3,-7.749422,110.995465
